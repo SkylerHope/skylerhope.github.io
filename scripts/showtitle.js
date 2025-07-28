@@ -1,4 +1,4 @@
-var titleName = document.getElementById('title_name');
+/*var titleName = document.getElementById('title_name');
 var titleGreet = document.getElementById('title_greet');
 
 if (performance.navigation.type == performance.navigation.TYPE_RELOAD) {
@@ -9,4 +9,4 @@ if (performance.navigation.type == performance.navigation.TYPE_RELOAD) {
         titleGreet.style.display = "block";
         console.log('Greet is now block too');
     }
-}
+}*/
