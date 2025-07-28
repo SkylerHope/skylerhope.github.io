@@ -1,5 +1,11 @@
 body {
     background: linear-gradient(to left, blue, gray);
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    min-height: 100%;
 }
 
 #title {
